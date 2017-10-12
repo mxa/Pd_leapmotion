@@ -1,3 +1,5 @@
 NAME=leapmotion
 SRCDIR=.
 SRCS=main.cpp Dispatcher.cpp
+INCPATH+= -I/path/to/LeapSDK/include
+LDFLAGS='-L/path/to/Leapsdk/lib/x64 -lLeap'
