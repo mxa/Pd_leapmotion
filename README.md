@@ -14,7 +14,9 @@ Following instructions for Linux 64bit adapted from [Jordi Sala Serra](http://mu
 5. From the Pd_leapmotion directory, compile the code using flext:
 
   `$cd /path/to/Pd_leapmotion`
+  
   `$ bash ../flext/build.sh pd gcc`
+  
   `$ bash ../flext/build.sh pd gcc install`
 
   If the last command fails (e.g: permissions), copy  leapmotion.pd_linux file (created in flext release-single directory) to extra    directory of PureData (e.g. /usr/lib/pd/extra
