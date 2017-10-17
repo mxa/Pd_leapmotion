@@ -3,7 +3,7 @@
 
 Pure Data external for the leap motion controller by [Chikashi Miyama](https://github.com/chikashimiyama/Pd_leapmotion). Binary and [instructions for OS X](http://puredatajapan.info/?page_id=1514)
 
-with modifications by [Jakub Valtar](https://github.com/JakubValtar/Pd_leapmotion)
+Modifications by [Jakub Valtar](https://github.com/JakubValtar/Pd_leapmotion)
 
 Instructions adapted from [Jordi Sala Serra](http://musa.poperbu.net/index.php/tecnologia-seccions-30/-puredata-seccions-45/129-installing-leapmotion-puredata-external-on-linux)
 
