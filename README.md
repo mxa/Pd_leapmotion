@@ -5,7 +5,7 @@ Pure Data external for the leap motion controller by [Chikashi Miyama](https://g
 
 Modifications by [Jakub Valtar](https://github.com/JakubValtar/Pd_leapmotion)
 
-Instructions adapted from [Jordi Sala Serra](http://musa.poperbu.net/index.php/tecnologia-seccions-30/-puredata-seccions-45/129-installing-leapmotion-puredata-external-on-linux)
+Following instructions for Linux 64bit adapted from [Jordi Sala Serra](http://musa.poperbu.net/index.php/tecnologia-seccions-30/-puredata-seccions-45/129-installing-leapmotion-puredata-external-on-linux)
 
 1. Download and install [Flext](https://github.com/grrrr/flext) (e.g. in directory /path/to/flext)
 2. Download and unpack [LeapMotion SDK for Linux](https://developer.leapmotion.com/downloads) (e.g. in directory /path/to/LeapSDK)
