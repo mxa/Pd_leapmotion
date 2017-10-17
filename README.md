@@ -1,7 +1,7 @@
 #Pd_leapmotion
 =============
 
-Pure Data external for the leap motion controller by [Chikashi Miyama](https://github.com/chikashimiyama/Pd_leapmotion) [binary and instructions for OS X](http://puredatajapan.info/?page_id=1514)
+Pure Data external for the leap motion controller by [Chikashi Miyama](https://github.com/chikashimiyama/Pd_leapmotion). Binary and [instructions for OS X](http://puredatajapan.info/?page_id=1514)
 
 with modifications by [Jakub Valtar](https://github.com/JakubValtar/Pd_leapmotion)
 
