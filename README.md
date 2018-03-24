@@ -1,11 +1,11 @@
 #Pd_leapmotion
 =============
 
-Pure Data external for the leap motion controller by [Chikashi Miyama](https://github.com/chikashimiyama/Pd_leapmotion). Binary and [instructions for OS X](http://puredatajapan.info/?page_id=1514)
+Pure Data external for the leap motion controller by [Chikashi Miyama](https://github.com/chikashimiyama/Pd_leapmotion), including modifications by [Jakub Valtar](https://github.com/JakubValtar/Pd_leapmotion).
 
-Modifications by [Jakub Valtar](https://github.com/JakubValtar/Pd_leapmotion)
+OS X users may be interested in a binary and [instructions for OS X](http://puredatajapan.info/?page_id=1514).
 
-Following instructions for Linux 64bit adapted from [Jordi Sala Serra](http://musa.poperbu.net/index.php/tecnologia-seccions-30/-puredata-seccions-45/129-installing-leapmotion-puredata-external-on-linux)
+The following instructions for Linux 64bit are adapted from [Jordi Sala Serra](http://musa.poperbu.net/index.php/tecnologia-seccions-30/-puredata-seccions-45/129-installing-leapmotion-puredata-external-on-linux).
 
 1. Download and install [Flext](https://github.com/grrrr/flext) (e.g. in directory /path/to/flext)
 2. Download and unpack [LeapMotion SDK for Linux](https://developer.leapmotion.com/downloads) (e.g. in directory /path/to/LeapSDK)
