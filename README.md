@@ -23,6 +23,6 @@ Following instructions for Linux 64bit adapted from [Jordi Sala Serra](http://mu
 
 6. Finally, we can use this object. We need to preload libleap if we don't have it installed, so we need to execute:
 
-  `$LD_PRELOAD=/path/to/LeapSDK/lib/x64/libLeap.so pd`
+  `$ LD_PRELOAD=/path/to/LeapSDK/lib/x64/libLeap.so pd`
 
 7. To test it, make sure the Leap motion is running (run the visualizer tool) then open Pd and the `leapmotion-help.pd` patch
